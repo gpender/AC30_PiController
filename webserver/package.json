@@ -1,0 +1,14 @@
+{
+  "name": "ac30_picontroller",
+  "version": "1.0.0",
+  "description": "Node JS server and AngularJS Web Page for a Raspberry PI and AC30 Inverter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "sockjs": "^0.3.19"
+  }
+}
