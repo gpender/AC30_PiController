@@ -1,1 +1,0 @@
-var SCAN_PORT = 64195;
